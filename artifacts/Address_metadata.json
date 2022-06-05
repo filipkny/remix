@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.10+commit.fc410830"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"SmartcontractShowcase_flat.sol": "Address"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"SmartcontractShowcase_flat.sol": {
+			"keccak256": "0x7ae5792bc5d65b797a869dd4d07b7b1bedcd67829cbdabefe2a36f21bdd90ec4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7c6dddde23a99335c55c1ab9f3a5a81d2fb28d3ec87187a0619388df6df2247e",
+				"dweb:/ipfs/QmYv9JEMsYQqcUV4FTzTm1NpSaFVbL3qzRYmiorRsq1x3j"
+			]
+		}
+	},
+	"version": 1
+}

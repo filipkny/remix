@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.7.6+commit.7338295f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/RumbleKongLeague.sol": "Address"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/RumbleKongLeague.sol": {
+			"keccak256": "0x35bdaf7f7ed9fc543e40aee8bda6bd6d1e199abd7b9957f96ad13bcf2faab8f8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://30c3a883b6b3317c273d7f7f87808d35d8a6c0ab3f3b554e6d6c2ebfc702091a",
+				"dweb:/ipfs/QmP9z4YhBd2SYDgmhFtDetB4FoHCJsU6tSzGV1yeRmYM7v"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getVal",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "int256",
+						"name": "newVal",
+						"type": "int256"
+					}
+				],
+				"name": "setVal",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Learning Solidity/MyFirstSmartcontract.sol": "MyFirstSmartcontract"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Learning Solidity/MyFirstSmartcontract.sol": {
+			"keccak256": "0x24f71c0c3ae78d4e001d63c993d840c5cabe63465d7be30f273c66c5a9325695",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://9f91972b7ea65751ea67bdebfb8a73b5e55339f897bff2ffc444e3aa08330c5c",
+				"dweb:/ipfs/QmawwHXA7F3sWTGXEGhtN4DBb7cAqoepDwtmFJYLRMu7uU"
+			]
+		}
+	},
+	"version": 1
+}
